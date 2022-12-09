@@ -1,6 +1,6 @@
 # VR_PICO4_TEST_UNITY
 
-NEEDS THE ADDITION OF SEVERAL UNITY PACKAGES:
+NEEDS THE ADDITION OF THREE UNITY PACKAGES TO WORK:
 
 VR INTERACTION TOOLKIT: com.unity.xr.interaction.toolkit (add on Unity->Package Manager->Add package by name)
 
